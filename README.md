@@ -51,7 +51,7 @@
 
 <!-- STATS -->
 <p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=calinhas&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
